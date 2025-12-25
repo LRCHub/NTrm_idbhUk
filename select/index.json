@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "愛して　愛して　愛して（feat. Hatsune Miku）",
+  "base_artist": "きくお",
+  "createdAt": "2025-12-25T16:05:55.650789Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛して愛して愛して",
+      "artist": "きくお",
+      "has_synced": false,
+      "path": "select/pl_01_愛して愛して愛して_きくお.txt"
+    }
+  ]
+}
